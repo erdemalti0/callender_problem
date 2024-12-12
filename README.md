@@ -63,3 +63,6 @@ print(common_times)
 1. Modify the `p1_time`, `p2_time`, `Bounded1`, and `Bounded2` variables to match your schedules.
 2. Run the script to see the common available meeting times.
 
+---
+Developed by **Yusuf Erdem Altınsoy**
+
